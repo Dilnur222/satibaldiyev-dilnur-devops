@@ -1,0 +1,5 @@
+Name: Dilnur
+Surname: Satibaldiyev
+Group: IT2-2304
+Student_ID: 38036
+Course: DevOps
