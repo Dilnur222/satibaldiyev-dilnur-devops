@@ -1,0 +1,11 @@
+services:
+student-app:
+build: .
+image: satibaldiyev-dilnur-devops
+container_name: satibaldiyev-dilnur-container
+environment:
+STUDENT_NAME: Dilnur
+STUDENT_SURNAME: Satibaldiyev
+STUDENT_GROUP: IT2-2304
+STUDENT_ID: "38036"
+
